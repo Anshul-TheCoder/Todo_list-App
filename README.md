@@ -1,9 +1,10 @@
 # Todo_list-App
 
-## It is a Django based todo_list Web Framework
+## It is a Django based todo_list backend Web Framework
 
-### It is comprises of following features
+### It is comprised of the following features:
 
 1. Basic Authentication (Login through username and Password)
 
-![plot](.C:/Users/ANSHUL JAIN/Desktop/todolist/AppDemo_Images/Login_Page.PNG)
+1. Create a task 
+
